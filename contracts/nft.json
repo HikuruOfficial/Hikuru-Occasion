@@ -1,0 +1,12 @@
+{
+    "name": "AeTest",
+    "description": "AeTestDesc",
+    "image": "https://ipfs.io/ipfs/bafkreie5dmw4pi5og7zrh36os6y3xcxvgnsybg4cxzd4c2nc7x3bzhzgwe",
+    "creator": {
+        "name": "Hikuru",
+        "bio": "Brief biography of the artist.",
+        "social_media": "https://twitter.com/HikuruOfficial"
+    },
+    "story": "This nft was created by the snow dragon Hikuru.",
+    "external_url": "https://hikuru.com"
+}
