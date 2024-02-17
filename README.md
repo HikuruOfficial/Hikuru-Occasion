@@ -9,6 +9,7 @@ HikuruQuestsFactoryV1_2 is a blockchain-based questing system that leverages sma
 - **Referral System:** Incorporates a referral system to incentivize users to invite others to participate in quests.
 - **Yield and Gas Claiming:** Integration with the IBlast interface for claiming yield and gas, optimizing contract interactions and transactions.
 - **Upgradeable:** Utilizes UUPS (Universal Upgradeable Proxy Standard) for easy and secure contract upgrades.
+![image](https://github.com/HikuruOfficial/Hikuru-Occassion/assets/132744928/85198e23-bb38-4612-9012-9b6acb593d4f)
 
 ## Quick Start
 
